@@ -12,3 +12,4 @@ public class ChatMessage {
     private String sender;
     private String message;
 }
+// 주석달아서 커밋해볼께요
